@@ -1,0 +1,297 @@
+
+1
+<dji.ux.panel.CameraSettingAdvancedPanel
+        android:layout_width="180dp"
+        android:layout_height="263dp"
+        android:layout_below="@id/camera"
+        android:layout_toLeftOf="@+id/CameraCapturePanel"
+        android:gravity="center"
+        android:visibility="gone"
+        tools:ignore="RtlHardcoded"/>
+
+
+
+
+2
+
+ <dji.ux.panel.CameraSettingExposurePanel
+        android:layout_width="180dp"
+        android:layout_below="@id/camera"
+        android:layout_toLeftOf="@+id/CameraCapturePanel"
+        android:gravity="center"
+        android:layout_height="263dp"
+        android:visibility="gone"
+        tools:ignore="RtlHardcoded"/>
+
+
+
+
+
+"data":{
+"searchValue":null,
+"createBy":"jncp01",
+"createTime":"2021-08-17 11:29:19",
+"updateBy":null,
+"updateTime":null,
+"remark":null,
+"params":{},
+"id":141,
+"deptId":"370900",
+"lineCode":"318",
+"towerCode":"10",
+"voltCode":null,
+"deptName":"泰安供电公司",
+"lineName":"220kV温线",
+"towerName":"#8",
+"substationCode":null,
+"targetCode":"1",
+"targetType":"T",
+"taskCode":"TEST123456",
+"aiTaskCode":null,
+"nestSn":null,
+"uavSn":null,
+"patrolWay":null,
+"hashId":142,
+"width":2395,
+"height":1031,
+"imgSource":"nest",
+"fileSize":680545,
+"imgName":"111.png",
+"imgType":null,
+"shootCode":"456",
+"shootName":null,
+"shootTime":"2021-08-17 11:29:19",
+"lng":null,
+"lat":null,
+"alt":null,
+"opStatus":"0",
+"aiStatus":"0",
+"matchStatus":true,
+"matchTime":"2021-08-17",
+"recommendNum":null,
+"collectionNum":null,
+"year":null,
+"month":null,
+"delFlag":"0",
+"defectCount":0,
+"webkitRelativePath":null,
+"kilometer":null,
+"clip":"/img/file/clip/141.jpg",
+"thumbnail":"/img/file/thumbnail/141.jpg",
+"url":"/img/file/141.jpg"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-08-17 13:18:06.162 9369-9369/com.study.usb I/UsbMassStorageDevice: found usb device: /dev/bus/usb/003/002=UsbDevice[mName=/dev/bus/usb/003/002,mVendorId=1659,mProductId=10033,mClass=0,mSubclass=0,mProtocol=0,mManufacturerName=Prolific Technology Inc.,mProductName=USB SD Card Reader     ,mVersion=1.00,mSerialNumberReader=android.hardware.usb.IUsbSerialReader$Stub$Proxy@a8c36ed,mSubProductId =-1,mConfigurations=[
+    UsbConfiguration[mId=1,mName=null,mAttributes=128,mMaxPower=62,mInterfaces=[
+    UsbInterface[mId=0,mAlternateSetting=0,mName=null,mClass=8,mSubclass=6,mProtocol=80,mEndpoints=[
+    UsbEndpoint[mAddress=1,mAttributes=2,mMaxPacketSize=1024,mInterval=0]
+    UsbEndpoint[mAddress=130,mAttributes=2,mMaxPacketSize=1024,mInterval=0]]]]
+2021-08-17 13:18:06.162 9369-9369/com.study.usb I/UsbMassStorageDevice: Found usb interface: UsbInterface[mId=0,mAlternateSetting=0,mName=null,mClass=8,mSubclass=6,mProtocol=80,mEndpoints=[
+    UsbEndpoint[mAddress=1,mAttributes=2,mMaxPacketSize=1024,mInterval=0]
+    UsbEndpoint[mAddress=130,mAttributes=2,mMaxPacketSize=1024,mInterval=0]]
+2021-08-17 13:18:06.162 9369-9369/com.study.usb I/UsbMassStorageDevice: Found usb endpoint: UsbEndpoint[mAddress=1,mAttributes=2,mMaxPacketSize=1024,mInterval=0]
+2021-08-17 13:18:06.162 9369-9369/com.study.usb I/UsbMassStorageDevice: Found usb endpoint: UsbEndpoint[mAddress=130,mAttributes=2,mMaxPacketSize=1024,mInterval=0]
+2021-08-17 13:18:06.650 9369-9369/com.study.usb I/ViewRootImpl: dispatchDetachedFromWindow in doDie
+2021-08-17 13:18:06.652 9369-9430/com.study.usb W/libEGL: EGLNativeWindowType 0x7e149b7210 disconnect failed
+2021-08-17 13:18:32.143 9369-11827/com.study.usb E/post_aaa:: {"code":200,"msg":null,"data":{"access_token":"66fcc2ed-50ff-44e4-923e-994d5630d690","expires_in":43200}}
+2021-08-17 13:18:32.143 9369-11827/com.study.usb I/System.out: {"code":200,"msg":null,"data":{"access_token":"66fcc2ed-50ff-44e4-923e-994d5630d690","expires_in":43200}}
+2021-08-17 13:18:32.143 9369-11827/com.study.usb I/System.out: 200
+2021-08-17 13:18:32.143 9369-11827/com.study.usb I/System.out: 66fcc2ed-50ff-44e4-923e-994d5630d690
+2021-08-17 13:18:35.660 9369-11827/com.study.usb I/ViewRootImpl: dispatchDetachedFromWindow in doDie
+2021-08-17 13:18:35.665 9369-9430/com.study.usb W/libEGL: EGLNativeWindowType 0x7e149b66d0 disconnect failed
+2021-08-17 13:18:37.831 9369-9369/com.study.usb E/aaa: /storage/emulated/0
+2021-08-17 13:18:37.837 9369-11832/com.study.usb W/com.study.usb: Accessing hidden method Landroid/os/storage/StorageManager;->getVolumeList()[Landroid/os/storage/StorageVolume; (greylist, reflection, allowed)
+2021-08-17 13:18:37.837 9369-11832/com.study.usb W/com.study.usb: Accessing hidden method Landroid/os/storage/StorageVolume;->getPath()Ljava/lang/String; (greylist, reflection, allowed)
+2021-08-17 13:18:37.839 9369-11832/com.study.usb E/SDCARD: /storage/70F4-9AC0
+2021-08-17 13:18:37.853 9369-9369/com.study.usb I/DecorView[复制上传中。。。]:  old windowMode:0 new windoMode:1
+2021-08-17 13:18:37.861 9369-11832/com.study.usb E/aaaa: 读文件: IMG_20210721_101413.jpg ->复制到/DJI/100MEDIA/
+2021-08-17 13:18:37.937 9369-9369/com.study.usb I/HwViewRootImpl: removeInvalidNode all the node in jank list is out of time
+2021-08-17 13:18:47.716 9369-11832/com.study.usb I/System.out: {"msg":"已匹配：泰安供电公司——220kV温双线——#8","code":200,"data":{"searchValue":null,"createBy":"jncp01","createTime":"2021-08-17 13:18:35","updateBy":null,"updateTime":null,"remark":null,"params":{},"id":142,"deptId":"370900","lineCode":"318","towerCode":"10","voltCode":null,"deptName":"泰安供电公司","lineName":"220kV温双线","towerName":"#8","substationCode":null,"targetCode":"1","targetType":"T","taskCode":"TEST123456","aiTaskCode":null,"nestSn":null,"uavSn":null,"patrolWay":null,"hashId":143,"width":3000,"height":4000,"imgSource":"nest","fileSize":3022848,"imgName":"IMG_20210721_101413.jpg","imgType":null,"shootCode":"456","shootName":null,"shootTime":"2021-07-21 10:14:14","lng":null,"lat":null,"alt":null,"opStatus":"0","aiStatus":"0","matchStatus":true,"matchTime":"2021-08-17","recommendNum":null,"collectionNum":null,"year":null,"month":null,"delFlag":"0","defectCount":0,"webkitRelativePath":null,"kilometer":null,"url":"/img/file/142.jpg","clip":"/img/file/clip/142.jpg","thumbnail":"/img/file/thumbnail/142.jpg"}}
+2021-08-17 13:18:47.718 9369-11832/com.study.usb I/System.out: 200
+2021-08-17 13:18:47.737 9369-11832/com.study.usb E/aaaa: 读文件: IMG_20210721_101847.jpg ->复制到/DJI/100MEDIA/
+2021-08-17 13:18:47.748 9369-9369/com.study.usb I/HwViewRootImpl: removeInvalidNode all the node in jank list is out of time
+2021-08-17 13:18:48.522 9369-11832/com.study.usb I/System.out: {"msg":"已匹配：泰安供电公司——220kV温双线——#8","code":200,"data":{"searchValue":null,"createBy":"jncp01","createTime":"2021-08-17 13:18:41","updateBy":null,"updateTime":null,"remark":null,"params":{},"id":143,"deptId":"370900","lineCode":"318","towerCode":"10","voltCode":null,"deptName":"泰安供电公司","lineName":"220kV温双线","towerName":"#8","substationCode":null,"targetCode":"1","targetType":"T","taskCode":"TEST123456","aiTaskCode":null,"nestSn":null,"uavSn":null,"patrolWay":null,"hashId":144,"width":2448,"height":3264,"imgSource":"nest","fileSize":1941504,"imgName":"IMG_20210721_101847.jpg","imgType":null,"shootCode":"456","shootName":null,"shootTime":"2021-07-21 10:18:48","lng":null,"lat":null,"alt":null,"opStatus":"0","aiStatus":"0","matchStatus":true,"matchTime":"2021-08-17","recommendNum":null,"collectionNum":null,"year":null,"month":null,"delFlag":"0","defectCount":0,"webkitRelativePath":null,"kilometer":null,"url":"/img/file/143.jpg","clip":"/img/file/clip/143.jpg","thumbnail":"/img/file/thumbnail/143.jpg"}}
+2021-08-17 13:18:48.523 9369-11832/com.study.usb I/System.out: 200
+2021-08-17 13:18:48.561 9369-11832/com.study.usb E/aaaa: 读文件: IMG_20210721_101848.jpg ->复制到/DJI/100MEDIA/
+2021-08-17 13:18:49.266 9369-11832/com.study.usb I/System.out: {"msg":"已匹配：泰安供电公司——220kV温双线——#8","code":200,"data":{"searchValue":null,"createBy":"jncp01","createTime":"2021-08-17 13:18:42","updateBy":null,"updateTime":null,"remark":null,"params":{},"id":144,"deptId":"370900","lineCode":"318","towerCode":"10","voltCode":null,"deptName":"泰安供电公司","lineName":"220kV温双线","towerName":"#8","substationCode":null,"targetCode":"1","targetType":"T","taskCode":"TEST123456","aiTaskCode":null,"nestSn":null,"uavSn":null,"patrolWay":null,"hashId":145,"width":2448,"height":3264,"imgSource":"nest","fileSize":1982464,"imgName":"IMG_20210721_101848.jpg","imgType":null,"shootCode":"456","shootName":null,"shootTime":"2021-07-21 10:18:49","lng":null,"lat":null,"alt":null,"opStatus":"0","aiStatus":"0","matchStatus":true,"matchTime":"2021-08-17","recommendNum":null,"collectionNum":null,"year":null,"month":null,"delFlag":"0","defectCount":0,"webkitRelativePath":null,"kilometer":null,"url":"/img/file/144.jpg","clip":"/img/file/clip/144.jpg","thumbnail":"/img/file/thumbnail/144.jpg"}}
+2021-08-17 13:18:49.267 9369-11832/com.study.usb I/System.out: 200
+2021-08-17 13:18:49.297 9369-11832/com.study.usb E/aaaa: 读文件: IMG_20210721_102049.jpg ->复制到/DJI/100MEDIA/
+2021-08-17 13:18:50.635 9369-11832/com.study.usb I/System.out: {"msg":"已匹配：泰安供电公司——220kV温双线——#8","code":200,"data":{"searchValue":null,"createBy":"jncp01","createTime":"2021-08-17 13:18:43","updateBy":null,"updateTime":null,"remark":null,"params":{},"id":145,"deptId":"370900","lineCode":"318","towerCode":"10","voltCode":null,"deptName":"泰安供电公司","lineName":"220kV温双线","towerName":"#8","substationCode":null,"targetCode":"1","targetType":"T","taskCode":"TEST123456","aiTaskCode":null,"nestSn":null,"uavSn":null,"patrolWay":null,"hashId":146,"width":3000,"height":4000,"imgSource":"nest","fileSize":3391488,"imgName":"IMG_20210721_102049.jpg","imgType":null,"shootCode":"456","shootName":null,"shootTime":"2021-07-21 10:20:50","lng":null,"lat":null,"alt":null,"opStatus":"0","aiStatus":"0","matchStatus":true,"matchTime":"2021-08-17","recommendNum":null,"collectionNum":null,"year":null,"month":null,"delFlag":"0","defectCount":0,"webkitRelativePath":null,"kilometer":null,"url":"/img/file/145.jpg","clip":"/img/file/clip/145.jpg","thumbnail":"/img/file/thumbnail/145.jpg"}}
+2021-08-17 13:18:50.636 9369-11832/com.study.usb I/System.out: 200
+2021-08-17 13:18:50.654 9369-11832/com.study.usb E/aaaa: 读文件: IMG_20210721_102240.jpg ->复制到/DJI/100MEDIA/
+2021-08-17 13:18:51.389 9369-11832/com.study.usb I/System.out: {"msg":"已匹配：泰安供电公司——220kV温双线——#8","code":200,"data":{"searchValue":null,"createBy":"jncp01","createTime":"2021-08-17 13:18:44","updateBy":null,"updateTime":null,"remark":null,"params":{},"id":146,"deptId":"370900","lineCode":"318","towerCode":"10","voltCode":null,"deptName":"泰安供电公司","lineName":"220kV温双线","towerName":"#8","substationCode":null,"targetCode":"1","targetType":"T","taskCode":"TEST123456","aiTaskCode":null,"nestSn":null,"uavSn":null,"patrolWay":null,"hashId":147,"width":2448,"height":3264,"imgSource":"nest","fileSize":1818624,"imgName":"IMG_20210721_102240.jpg","imgType":null,"shootCode":"456","shootName":null,"shootTime":"2021-07-21 10:22:41","lng":null,"lat":null,"alt":null,"opStatus":"0","aiStatus":"0","matchStatus":true,"matchTime":"2021-08-17","recommendNum":null,"collectionNum":null,"year":null,"month":null,"delFlag":"0","defectCount":0,"webkitRelativePath":null,"kilometer":null,"url":"/img/file/146.jpg","clip":"/img/file/clip/146.jpg","thumbnail":"/img/file/thumbnail/146.jpg"}}
+2021-08-17 13:18:51.390 9369-11832/com.study.usb I/System.out: 200
+2021-08-17 13:18:51.404 9369-11832/com.study.usb E/aaaa: 读文件: IMG_20210722_094233.jpg ->复制到/DJI/100MEDIA/
+2021-08-17 13:18:52.052 9369-11832/com.study.usb I/System.out: {"msg":"已匹配：泰安供电公司——220kV温双线——#8","code":200,"data":{"searchValue":null,"createBy":"jncp01","createTime":"2021-08-17 13:18:45","updateBy":null,"updateTime":null,"remark":null,"params":{},"id":147,"deptId":"370900","lineCode":"318","towerCode":"10","voltCode":null,"deptName":"泰安供电公司","lineName":"220kV温双线","towerName":"#8","substationCode":null,"targetCode":"1","targetType":"T","taskCode":"TEST123456","aiTaskCode":null,"nestSn":null,"uavSn":null,"patrolWay":null,"hashId":148,"width":2448,"height":3264,"imgSource":"nest","fileSize":1548288,"imgName":"IMG_20210722_094233.jpg","imgType":null,"shootCode":"456","shootName":null,"shootTime":"2021-07-22 09:42:34","lng":null,"lat":null,"alt":null,"opStatus":"0","aiStatus":"0","matchStatus":true,"matchTime":"2021-08-17","recommendNum":null,"collectionNum":null,"year":null,"month":null,"delFlag":"0","defectCount":0,"webkitRelativePath":null,"kilometer":null,"url":"/img/file/147.jpg","clip":"/img/file/clip/147.jpg","thumbnail":"/img/file/thumbnail/147.jpg"}}
+2021-08-17 13:18:52.055 9369-11832/com.study.usb I/System.out: 200
+2021-08-17 13:18:52.097 9369-11832/com.study.usb E/aaaa: 读文件: IMG_20210722_094412.jpg ->复制到/DJI/100MEDIA/
+2021-08-17 13:18:53.193 9369-11832/com.study.usb I/System.out: {"msg":"已匹配：泰安供电公司——220kV温双线——#8","code":200,"data":{"searchValue":null,"createBy":"jncp01","createTime":"2021-08-17 13:18:46","updateBy":null,"updateTime":null,"remark":null,"params":{},"id":148,"deptId":"370900","lineCode":"318","towerCode":"10","voltCode":null,"deptName":"泰安供电公司","lineName":"220kV温双线","towerName":"#8","substationCode":null,"targetCode":"1","targetType":"T","taskCode":"TEST123456","aiTaskCode":null,"nestSn":null,"uavSn":null,"patrolWay":null,"hashId":149,"width":3000,"height":4000,"imgSource":"nest","fileSize":2916352,"imgName":"IMG_20210722_094412.jpg","imgType":null,"shootCode":"456","shootName":null,"shootTime":"2021-07-22 09:44:14","lng":null,"lat":null,"alt":null,"opStatus":"0","aiStatus":"0","matchStatus":true,"matchTime":"2021-08-17","recommendNum":null,"collectionNum":null,"year":null,"month":null,"delFlag":"0","defectCount":0,"webkitRelativePath":null,"kilometer":null,"url":"/img/file/148.jpg","clip":"/img/file/clip/148.jpg","thumbnail":"/img/file/thumbnail/148.jpg"}}
+2021-08-17 13:18:53.194 9369-11832/com.study.usb I/System.out: 200
+2021-08-17 13:18:53.197 9369-9369/com.study.usb I/ViewRootImpl: dispatchDetachedFromWindow in doDie
+2021-08-17 13:18:53.207 9369-9430/com.study.usb W/libEGL: EGLNativeWindowType 0x7dbef03dd0 disconnect failed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"data":{"taskCode": "TASK202103160001","taskName": "茂惠线巡检任务","routeInfo":{"altitude":20,"autoFlightSpeed":9.2,"actionOnFinish":"GoHome","headingMode":"UsePointSetting","gimbalPitchMode":"UsePointSetting","takeoffHeight":71.232910,"hasTakeoffHeight": true,"points": [{"index": "1","name": " Waypoint1","visibility": "1","description": "Waypoint","lng": 115.31526,"lat": 34.72192,"alt": 102.593,"altitudeMode": "absolute","speed": 0,"turnMode": "Auto","useWayLineAltitude": "false","aircraftYaw": 127.761568,"gimbalPitch": -2.926156,"shootingPointLng": "117.3112","shootingPointLat": "36.70865","shootingPointAlt": "95.76000","actions": [{"actionCommand":"aircraftYaw","actionParam":"127.761568","actionIndex":1},{" actionCommand ":"gimbalPitch"," actionParam ":"-2.926156"," actionIndex ":2},{"actionCommand":"ShootPhoto"," actionParam ":"绝缘子_1"," actionIndex ":3}] },{"index": "1","name": " Waypoint1","visibility": "1","description": "Waypoint","lng": 115.31526,"lat": 34.72192,"alt": 102.593,"altitudeMode": "absolute","speed": 0,"turnMode": "Auto","useWayLineAltitude": "false","aircraftYaw": 127.761568,"gimbalPitch": -2.926156,"shootingPointLng": "117.3112","shootingPointLat": "36.70865","shootingPointAlt": "95.76000","actions": [{"actionCommand":"aircraftYaw","actionParam":"127.761568","actionIndex":1},{" actionCommand ":"gimbalPitch"," actionParam ":"-2.926156"," actionIndex ":2},{"actionCommand":"ShootPhoto"," actionParam ":"绝缘子_1"," actionIndex ":3}] },{"index": "1","name": " Waypoint1","visibility": "1","description": "Waypoint","lng": 115.31526,"lat": 34.72192,"alt": 102.593,"altitudeMode": "absolute","speed": 0,"turnMode": "Auto","useWayLineAltitude": "false","aircraftYaw": 127.761568,"gimbalPitch": -2.926156,"shootingPointLng": "117.3112","shootingPointLat": "36.70865","shootingPointAlt": "95.76000","actions": [{"actionCommand":"aircraftYaw","actionParam":"127.761568","actionIndex":1},{" actionCommand ":"gimbalPitch"," actionParam ":"-2.926156"," actionIndex ":2},{"actionCommand":"ShootPhoto"," actionParam ":"绝缘子_1"," actionIndex ":3}] }] }}}
+
+
+
+{
+"code": 200,
+"msg": null,
+"data":{}
+}
+
+
+
+
+
+
+
+{
+"code": 200,
+"msg": null,
+"data": {"taskCode": "TASK202103160001","taskName": "茂惠线巡检任务",
+        "routeInfo": {"altitude":20,"autoFlightSpeed":9.2,"actionOnFinish":"GoHome","headingMode":"UsePointSetting","gimbalPitchMode":"UsePointSetting","takeoffHeight":71.232910,"hasTakeoffHeight": true,
+"points": [{"index": "1","name": " Waypoint1","visibility": "1","description": "Waypoint","lng": 115.31526,"lat": 34.72192,"alt": 102.593,"altitudeMode": "absolute","speed": 0,"turnMode": "Auto","useWayLineAltitude": "false","aircraftYaw": 127.761568,"gimbalPitch": -2.926156,"shootingPointLng": "117.3112","shootingPointLat": "36.70865","shootingPointAlt": "95.76000",
+"actions": [{"actionCommand":"aircraftYaw","actionParam":"127.761568","actionIndex":1},{" actionCommand ":"gimbalPitch"," actionParam ":"-2.926156"," actionIndex ":2},{"actionCommand":"ShootPhoto"," actionParam ":"绝缘子_1"," actionIndex ":3}]
+			}]        
+}
+    }
+}
+
+
+
+
+无人机状态数据上报：
+droneBaseHeadDirection 无人机飞行方向
+direction  机头朝向
+droneUpLinkSignal 无人机上行链路信号
+droneDownLinkSignal 无人机下行链路信号
+droneFlyInSecond 无人机飞行时间
+droneGoHomeHeight 无人机返航高度
+velocitVS 无人机垂直方向速度
+velocitHS 无人机水平方向速度
+altitude 无人机飞行高度
+latitude 纬度
+longitude 经度
+dronePitch 无人机云台的pitch轴（俯仰）角度
+droneRoll无人机云台的roll轴（横滚）角度
+droneYaw 无人机云台的yaw轴角度 
+flightMode无人机飞行模式
+goHomeState\":\"" + goHomeExecutionState + "\",\n\"homeAlt\":0" + ",\n\"homeLocationLat\":" + homeLatitude + ",\n" +
+"\"homeLocationLng\":" + homeLongitude + ",\n\"isCompassError\":" + mCompass.hasError() + ",\n\"satelliteCount\":" + satellite + ",\n\"isMotorsOn\":" + isMotoOn + ",\n" +
+"\"diagnostics\":\"" + diagnostic +
+"\",\n\"remainFlightTimeInSecond\":" + LifetimeRemaining + ",\n\"isLiveStreaming\":" + mLiveStreamManager.isStreaming() + ",\n" + "\"liveStreamInfo\":{\n\"audioBitRate\":" + liveAudioBitRate + ",\n" + "\"videoBitRate\": " + liveVideoBitRate + ",\n" +
+"\"videoCacheSize\": " + liveVideoCacheSize + ",\n" + "\"videoFps\": " + liveVideoFps + ",\n" + "\"videoStreamSpeed\": " + liveVideoBitRate + ",\n" +
+"\"videoStreamSpeedConfigurable\": " + videoStreamSpeedConfigurable
+
+
+
+
+
+{“data”:{
+“routeInfo”:{
+“altitude”:20,
+“autoFlightSpeed”:9.2,
+“actionOnFinish”:”GoHome”,
+“headingMode”:”UsePointSetting”,
+“gimbalPitchMode”:”UsePointSetting”,
+“takeoffHeight”:71.232910,
+“hasTakeoffHeight”:true ,
+“points”:[{
+“index”:”1”,
+“name”:”Waypoint1”,
+“visibility”:”1”,
+“description”:”Waypoint”,
+“lng”:115.31526,
+“lat”:34.72192,
+“alt”:102.593,
+“altitudeMode”:”absolute”,
+“speed”:0,
+“turnMode”:”Auto”,
+“useWayLineAltitude”:”false”,
+“aircraftYaw”:127.761568,
+“gimbalPitch”:-2.926156,
+“actions”:[
+{
+    “actionCommand”:”AircraftYaw”,
+    “actionParam”:”127.761568”,
+    “actionIndex”:1
+},
+{
+    “actionCommand”:”GimbalPitch”,
+    “actionParam”:”-2.926156”,
+    “actionIndex”:2
+},
+{
+    “actionCommand”:”ShootPhoto”,
+    “actionParam”:”z_1”,
+    “actionIndex”:3
+}]
+}]
+}
+}
+}
+
